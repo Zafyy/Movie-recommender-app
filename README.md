@@ -43,9 +43,12 @@ This is a **Movie Recommendation System** built using **Python** and **Streamlit
 
 ## DEMO
 
-![First SS]("image copy 2.png")
+![image copy 2](https://github.com/user-attachments/assets/51abd779-8dfe-4eed-96e3-fcf3f4239076)
 
-![Second SS]("image copy.png")
+![image copy](https://github.com/user-attachments/assets/4b9b5b30-634b-4c3d-908d-7c7cb77f6c4c)
 
-![Third SS]("image.png")
+![image](https://github.com/user-attachments/assets/7c49fe19-50a1-4d32-b7c6-1b669961091c)
+
+
+
 
